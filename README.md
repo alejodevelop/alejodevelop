@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alejodevelop
-- 👀 I’m interested in WEB 3.0, Artificial Intelligence, Mixed Reality and Pentesting. 
+- 👀 I’m interested in WEB 3.0, Artificial Intelligence, Mixed Reality and Pentesting
 - 🌱 I’m currently learning solidity and blockchain technologies
 - 💞️ I’m looking to collaborate on web 3.0 projects
 - 📫 How to reach me ... by my email alejodevelop@gmail.com

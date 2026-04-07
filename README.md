@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alejodevelop
 - 👀 I’m interested in WEB 3.0, Artificial Intelligence, Mixed Reality and Pentesting
-- 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on artificial intelligence projects
+- 🌱 I’m constantly learning about A.I
+- 💞️ I’m looking to collaborate on meaningful Open Source projects
 - 📫 How to reach me ... by my email alejodevelop@gmail.com
 
 <!---
